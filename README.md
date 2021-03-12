@@ -1,0 +1,1 @@
+A simple Python script to pull emails and names from a .csv and send a customized email to all of them.
